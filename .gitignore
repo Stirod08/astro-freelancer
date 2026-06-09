@@ -22,3 +22,8 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+.prettierignore
+.prettierrc
+stirod.config.js
+svg-icons/
