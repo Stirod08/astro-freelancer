@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Krub:wght@400;700&display=swap');
 @import 'tailwindcss';
 
 @theme {
@@ -12,4 +13,6 @@
   --color-aquamarine-800: #0e6d46;
   --color-aquamarine-900: #0e593b;
   --color-aquamarine-950: #01321f;
+
+  --font-krub: 'Krub', sans-serif;
 }
