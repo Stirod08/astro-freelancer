@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-aquamarine-50: #effef7;
+  --color-aquamarine-100: #d9ffee;
+  --color-aquamarine-200: #b5fddd;
+  --color-aquamarine-300: #67f9ba;
+  --color-aquamarine-400: #3beda1;
+  --color-aquamarine-500: #11d682;
+  --color-aquamarine-600: #08b169;
+  --color-aquamarine-700: #0a8b55;
+  --color-aquamarine-800: #0e6d46;
+  --color-aquamarine-900: #0e593b;
+  --color-aquamarine-950: #01321f;
+}

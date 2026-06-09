@@ -1,0 +1,68 @@
+---
+import Layouts from '../Layouts/Layouts.astro';
+import IconSVG from '../components/IconSVG.astro';
+import { icons } from '../generated';
+---
+
+<Layouts title="Diseñador Freelancer">
+  <header>
+    <h1 class="text-center text-4xl">Stirod <span class="text-xl">Freelancer</span></h1>
+  </header>
+
+  <nav>
+    <a href="/">Inicio</a>
+    <a href="#">Sobre Mi</a>
+    <a href="#">Clientes</a>
+    <a href="#">Contactos</a>
+  </nav>
+
+  <section>
+    <h2>Diseño y Desarrollo Web Freelancer</h2>
+    <IconSVG name="map-pin" size={98} />
+    <p>Medellín, Antioquia</p>
+    <a href="#">Contactar</a>
+  </section>
+
+  <img src="/src/assets/hero.jpg" alt="Imagen de fondo" />
+
+  <main>
+    <h2>Mis Servicios</h2>
+
+    <section>
+      <h3>Diseño Web</h3>
+      <IconSVG name="palette" size={48} />
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident officia, tenetur esse
+        enim.
+      </p>
+    </section>
+
+    <section>
+      <h3>Aplicaciones Web</h3>
+      <IconSVG name="android" size={48} />
+      <IconSVG name="apple" size={48} />
+
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident officia, tenetur esse
+        enim.
+      </p>
+    </section>
+
+    <section>
+      <h3>E-Commerce</h3>
+      <IconSVG name="card" size={48} />
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident officia, tenetur esse
+        enim.
+      </p>
+    </section>
+  </main>
+
+  <section>
+    <h2>Contacto</h2>
+  </section>
+
+  <footer>
+    <p>Todos los derechos reservados Stirod</p>
+  </footer>
+</Layouts>

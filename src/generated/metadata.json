@@ -1,0 +1,37 @@
+{
+  "android": {
+    "viewBox": "0 0 24 24",
+    "fill": "none",
+    "stroke": "#000",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round"
+  },
+  "apple": {
+    "viewBox": "0 0 24 24",
+    "fill": "none",
+    "stroke": "#000",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round"
+  },
+  "card": {
+    "viewBox": "0 0 24 24",
+    "fill": "none",
+    "stroke": "#000",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round"
+  },
+  "map-pin": {
+    "viewBox": "0 0 24 24",
+    "fill": "none",
+    "stroke": "#ff9500",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round"
+  },
+  "palette": {
+    "viewBox": "0 0 24 24",
+    "fill": "none",
+    "stroke": "#000",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round"
+  }
+}
